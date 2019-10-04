@@ -76,6 +76,11 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
+			"name": "steamcomcast",
+			"description": "Comcast CDNs for steam platform",
+			"domain_files": ["steamcomcast.txt"]
+		},
+		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
